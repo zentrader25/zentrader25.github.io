@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.624bbecd.css",
+    "main.js": "/static/js/main.3c079327.js",
+    "static/media/iqoption.jpg": "/static/media/iqoption.8612e258829321aa77ac.jpg",
+    "static/media/graficos.webp": "/static/media/graficos.3b21b639fb1370c27734.webp",
+    "index.html": "/index.html",
+    "main.624bbecd.css.map": "/static/css/main.624bbecd.css.map",
+    "main.3c079327.js.map": "/static/js/main.3c079327.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.624bbecd.css",
+    "static/js/main.3c079327.js"
+  ]
+}
