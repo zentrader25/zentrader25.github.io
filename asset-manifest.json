@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.af96dc81.css",
-    "main.js": "/static/js/main.51c5f76a.js",
+    "main.css": "/static/css/main.518c04d1.css",
+    "main.js": "/static/js/main.1c63c0be.js",
     "static/media/iqoption.jpg": "/static/media/iqoption.8612e258829321aa77ac.jpg",
     "static/media/graficos.webp": "/static/media/graficos.3b21b639fb1370c27734.webp",
     "index.html": "/index.html",
-    "main.af96dc81.css.map": "/static/css/main.af96dc81.css.map",
-    "main.51c5f76a.js.map": "/static/js/main.51c5f76a.js.map"
+    "main.518c04d1.css.map": "/static/css/main.518c04d1.css.map",
+    "main.1c63c0be.js.map": "/static/js/main.1c63c0be.js.map"
   },
   "entrypoints": [
-    "static/css/main.af96dc81.css",
-    "static/js/main.51c5f76a.js"
+    "static/css/main.518c04d1.css",
+    "static/js/main.1c63c0be.js"
   ]
 }
